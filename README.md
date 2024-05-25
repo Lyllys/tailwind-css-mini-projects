@@ -12,7 +12,7 @@ This project contains mini projects developed during the Udemy course "Tailwind 
 
 ### Project 1: Email Subscribe Card
 
-![email-subscribe](https://github.com/Lyllys/tailwind-css-mini-projects/assets/76455440/7a5328a6-a55f-44c4-bfd8-60bae4f4bd17)
+<img src="email-subscribe/images/email-subscribe.png" alt="Email Subscribe Card" width="300"/>
 
 A modern and responsive email subscribe card. This project creates a clean and attractive design with the following elements:
 - An image with a hover animation
