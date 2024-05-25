@@ -12,7 +12,7 @@ This project contains mini projects developed during the Udemy course "Tailwind 
 
 ### Project 1: Email Subscribe Card
 
-![email-subscribe](https://github.com/Lyllys/tailwind-css-mini-projects/assets/76455440/fb691ff3-762e-4a95-af75-32cf0a05b181)
+![email-subscribe](https://github.com/Lyllys/tailwind-css-mini-projects/assets/76455440/7a5328a6-a55f-44c4-bfd8-60bae4f4bd17)
 
 A modern and responsive email subscribe card. This project creates a clean and attractive design with the following elements:
 - An image with a hover animation
@@ -22,7 +22,7 @@ A modern and responsive email subscribe card. This project creates a clean and a
 
 ### Project 2: Pricing Cards
 
-![pricing-cards](https://github.com/Lyllys/tailwind-css-mini-projects/assets/76455440/473a3f39-55ef-4e88-85ce-f9171c654bee)
+![pricing-cards](https://github.com/Lyllys/tailwind-css-mini-projects/assets/76455440/24a2ae7f-423e-4143-9118-323ea5fbecbe)
 
 A set of three pricing cards, each representing different plans with their benefits, prices, and a purchase button. This project showcases:
 - The use of Tailwind CSS for creating responsive and visually appealing card layouts
