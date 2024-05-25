@@ -3,8 +3,8 @@
 This project contains mini projects developed during the Udemy course "Tailwind CSS From Scratch | Learn By Building Projects." Each project demonstrates the power and versatility of Tailwind CSS, focusing on different aspects of web design to create responsive, modern, and visually appealing user interfaces.
 
 1. [Project Overview](#project-overview)
-  - [Project 1: Email Subscribe Card](#project-1-email-subscribe-card)
-  - [Project 2: Pricing Cards](#project-2-pricing-cards)
+    - [Project 1: Email Subscribe Card](#project-1-email-subscribe-card)
+    - [Project 2: Pricing Cards](#project-2-pricing-cards)
 2. [Installation](#installation)
 3. [License](#license)
 
@@ -37,6 +37,6 @@ A set of three pricing cards, each representing different plans with their benef
 2. Navigate to the project directory:  `cd project-folder-name`
 3. Install the dependencies: npm install
 
-##License
+## License
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
