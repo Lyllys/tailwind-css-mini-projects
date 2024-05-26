@@ -1,0 +1,4 @@
+/* brings in the tailwindcss base, components, and utilities styles into the project */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
