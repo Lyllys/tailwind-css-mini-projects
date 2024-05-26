@@ -5,6 +5,7 @@ This project contains mini projects developed during the Udemy course "Tailwind 
 1. [Project Overview](#project-overview)
     - [Project 1: Email Subscribe Card](#project-1-email-subscribe-card)
     - [Project 2: Pricing Cards](#project-2-pricing-cards)
+    - [Project 3: Product Modal](#project-3-product-modal)
 2. [Installation](#installation)
 3. [License](#license)
 
@@ -30,6 +31,17 @@ A set of three pricing cards, each representing different plans with their benef
   - Animation on hover
   - Shadows on the cards for a 3D effect
   - Button styles for depth when activated
+ 
+### Project 3: Product Modal
+
+![product-modal](https://github.com/Lyllys/tailwind-css-mini-projects/assets/76455440/de148fa2-45ff-475d-8a5d-dde59b83d8be)
+
+A modal with the product details using the group concept in Tailwind CSS for enhanced interactivity and styling. This project includes:
+- An image of the product with a hover animation
+- Details about the product
+- A button to add the product to the cart with a hover animation
+- A spinning animation to alert how many products are in stock
+- Two additional buttons: one to add to the cart and another to add to the wishlist with a 3D effect
 
 ## Installation
 
