@@ -1,12 +1,13 @@
 # Tailwind CSS Mini Projects
 
-This project contains mini projects developed during the Udemy course "Tailwind CSS From Scratch | Learn By Building Projects." Each project demonstrates the power and versatility of Tailwind CSS, focusing on different aspects of web design to create responsive, modern, and visually appealing user interfaces.
+This project contains 5 mini projects developed during the Udemy course "Tailwind CSS From Scratch | Learn By Building Projects." Each project demonstrates the power and versatility of Tailwind CSS, focusing on different aspects of web design to create responsive, modern, and visually appealing user interfaces.
 
 1. [Project Overview](#project-overview)
     - [Project 1: Email Subscribe Card](#project-1-email-subscribe-card)
     - [Project 2: Pricing Cards](#project-2-pricing-cards)
     - [Project 3: Product Modal](#project-3-product-modal)
     - [Project 4: Image Gallery](#project-4-image-gallery)
+    - [Project 5: Login Modal](#project-5-login-modal)
 2. [Installation](#installation)
 3. [License](#license)
 
@@ -51,6 +52,15 @@ A modal with the product details using the group concept in Tailwind CSS for enh
 A stylish image gallery using grid concepts that features:
 - A menu with a hover effect that shows a line at the bottom of the menu item
 - When an image is hovered, a black background with opacity and information about the image appears
+
+### Project 5: Login Modal
+
+![login-modal](https://github.com/Lyllys/tailwind-css-mini-projects/assets/76455440/7e22282c-9b9a-4c70-bd72-0038e677cd79)
+
+A modern login modal that includes:
+- An image
+- Input fields for username and password
+- A button to submit the login form with a hover effect that adds a shadow
 
 ## Installation
 
