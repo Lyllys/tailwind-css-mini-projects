@@ -6,6 +6,7 @@ This project contains mini projects developed during the Udemy course "Tailwind 
     - [Project 1: Email Subscribe Card](#project-1-email-subscribe-card)
     - [Project 2: Pricing Cards](#project-2-pricing-cards)
     - [Project 3: Product Modal](#project-3-product-modal)
+    - [Project 4: Image Gallery](#project-4-image-gallery)
 2. [Installation](#installation)
 3. [License](#license)
 
@@ -42,6 +43,14 @@ A modal with the product details using the group concept in Tailwind CSS for enh
 - A button to add the product to the cart with a hover animation
 - A spinning animation to alert how many products are in stock
 - Two additional buttons: one to add to the cart and another to add to the wishlist with a 3D effect
+
+### Project 4: Image Gallery
+
+![image-gallery](https://github.com/Lyllys/tailwind-css-mini-projects/assets/76455440/99ddd9dd-9cf3-4ad0-9259-764d49cb71b3)
+
+A stylish image gallery using grid concepts that features:
+- A menu with a hover effect that shows a line at the bottom of the menu item
+- When an image is hovered, a black background with opacity and information about the image appears
 
 ## Installation
 
