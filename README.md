@@ -9,7 +9,6 @@ This project contains 5 mini projects developed during the Udemy course "Tailwin
     - [Project 4: Image Gallery](#project-4-image-gallery)
     - [Project 5: Login Modal](#project-5-login-modal)
 2. [Installation](#installation)
-3. [License](#license)
 
 ## Project Overview
 
@@ -68,6 +67,3 @@ A modern login modal that includes:
 2. Navigate to the project directory:  `cd project-folder-name`
 3. Install the dependencies: npm install
 
-## License
-
-This repository is licensed under the MIT License. See the LICENSE file for more information.
