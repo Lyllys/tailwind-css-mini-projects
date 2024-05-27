@@ -66,7 +66,7 @@ A modern login modal that includes:
 
 1. Clone the repository: `git clone https://github.com/yourusername/tailwind-css-mini-projects.git`
 2. Navigate to the project directory:  `cd project-folder-name`
-3. Install the dependencies: npm install
+3. Install the dependencies: `npm install`
 
 ## Contributing
 
